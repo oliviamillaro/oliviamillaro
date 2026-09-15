@@ -1,6 +1,8 @@
 ## Hi there 👋
 
-# About me: I am a data analyst consultant, currently learning to code in SQL and Python. Currently working on completing and documenting the LeetCode SQL 50.
+About me: I am a data analyst consultant, currently learning to code in SQL and Python. Currently working on completing and documenting the LeetCode SQL 50.
+
+Certifications: Alteryx Designer Advanced and Core, Tableau Data Analyst
 <!--
 **oliviamillaro/oliviamillaro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
