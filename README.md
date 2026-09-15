@@ -1,5 +1,6 @@
 ## Hi there 👋
 
+# About me: I am a data analyst consultant, currently learning to code in SQL and Python. Currently working on completing and documenting the LeetCode SQL 50.
 <!--
 **oliviamillaro/oliviamillaro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
