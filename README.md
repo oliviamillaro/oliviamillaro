@@ -34,18 +34,23 @@
 <div>
 
 ---
-<!--
-### Projects
+### Ongoing Projects
 
 | Name                  | Description                                                                 | Tools                                   | Skills                          |
 |-----------------------|-----------------------------------------------------------------------------|-----------------------------------------|---------------------------------|
-| [F1 Visualisation](www.google.com)      | Built a dashboard analysing Formula 1 race performance. | Tableau, Tableau Prep, Excel | Data Visualization, Analytics, Dashboard Design |
-| [API Pipeline](www.google.com)          | Developed an automated pipeline ETL data from REST APIs. | Alteryx, Python, REST APIs   | ETL Development, Automation, Data Integration |
-| [Bookstore WebScraping](www.google.com) | Created a web scraper to collect data from online bookstores. | Python, BeautifulSoup | Web Scraping, Data Cleaning, Scripting |
-| [SQL Staging](www.google.com)           | Designed and maintained staging tables to prepare raw data for analytics. | SQL Server, Snowflake, dbt | Data Modeling, Data Warehousing |
+| [TOTK API Call and Data Visualisation](https://github.com/oliviamillaro/totk-monsters-and-armour)    | Calling a TOTK API, modelling and transforming the data, and visualising it via an interactive armour upgrade and monster compendium dashboard. Documenting every step. | Python, SQL, DuckDB, Tableau | ETL, Data Visualisation, Documentation |
+| [LeetCode SQL 50](https://github.com/oliviamillaro/leetcode_sql50)         | Completing and documenting all of the LeetCode SQL 50 problems and solutions | SQL   | Data exploration/manipulation |
+
+
+### Completed Projects
+
+| Name                  | Description                                                                 | Tools                                   | Skills                          |
+|-----------------------|-----------------------------------------------------------------------------|-----------------------------------------|---------------------------------|
+| [SQL Murder Mystery](https://github.com/oliviamillaro/SQL_murder_mystery)      | Solving and documenting a SQL murder mystery | SQL | Data Exploration, Documentation |
+| [SQL Advent Calendar 2025](https://github.com/oliviamillaro/interviewmaster_sqladvent_2025)          | Completed the Interview Master 2025 Advent Calendar | SQL   | Data exploration/manipulation |
 
 ---
-
+<!--
 ### Vizzes
 
 <div align="center">
