@@ -70,4 +70,4 @@ Check out my [Tableau Public](https://public.tableau.com/app/profile/olivia.mill
 
 And check out my [blog page](https://www.thedataschool.co.uk/blog/olivia-grace-yuki-millar/) for data related blogs
 
-![GIF](https://i.pinimg.com/originals/fe/09/3c/fe093cf755f1f2731cbd8a76d3d6fbcd.gif)
+<img width="498" height="281" alt="kirby" src="https://github.com/user-attachments/assets/a2f4687a-fd03-431c-8c3d-fb8abe82ac56" />
