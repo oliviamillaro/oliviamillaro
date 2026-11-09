@@ -4,6 +4,8 @@
 - Skills: Data Analysis, Data Visualisation, Data Transformation
 - MSc *Infection and Immunity* from University College London, BSc *Biochemistry* from University College London
 
+---
+
 ### Current Stack:
 <div align="left">
   <img src="https://img.shields.io/badge/snowflake-28A0E5?style=for-the-badge&logo=snowflake&logoColor=white">
@@ -19,6 +21,8 @@
   <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=ffdd54">
 <div>
 <br>
+
+---
   
 ### Certifications 
 
