@@ -69,3 +69,5 @@
 Check out my [Tableau Public](https://public.tableau.com/app/profile/olivia.millar/vizzes) for dashboards I have created!
 
 And check out my [blog page](https://www.thedataschool.co.uk/blog/olivia-grace-yuki-millar/) for data related blogs
+
+![GIF](https://i.pinimg.com/originals/fe/09/3c/fe093cf755f1f2731cbd8a76d3d6fbcd.gif)
